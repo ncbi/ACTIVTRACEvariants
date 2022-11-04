@@ -1,6 +1,6 @@
 # NIH ACTIV TRACE Sequence Analysis Subgroup
 
-This repository collects code used as part of analyses conducted by the working group.
+This repository collects code used as part of analyses conducted by the working group. A preprint of the group's work can be found on [BioArxiv](https://www.biorxiv.org/content/10.1101/2022.11.03.515010v1).
 
 The NCBI Variant Calling Pipeline can be found [here](https://github.com/ncbi/sars2variantcalling).
 
