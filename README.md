@@ -7,3 +7,5 @@ The NCBI Variant Calling Pipeline can be found [here](https://github.com/ncbi/sa
 The EDGE COVID-19 pipeline can be found [here](https://github.com/LANL-Bioinformatics/EDGE/tree/SARS-CoV2).
 
 The SARS-CoV-2 variant analysis workflows of the Galaxy project can be found [here](https://galaxyproject.org/projects/covid19/workflows).
+
+The ATCC/BEI Variant Calling Pipeline can be found [here](https://github.com/ATCC-Bioinformatics/ATCC-ACTIV).
